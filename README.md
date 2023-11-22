@@ -1,4 +1,6 @@
 # Form validation using Java Script:<br>
+###### This is a JavaScript form validation project where users provide input to various input boxes, and upon changing the form, it undergoes validation. If users input invalid data, error messages are displayed; otherwise, it shows validation success. The form includes validations for Name (excluding numbers), mobile number, email, date of birth (with an age limit), gender, address, attachment, educational details, checkbox, and more.  
+
 ## Sample Screenshot for ass_2.html
 ![image](https://github.com/Dibya1771/Form-validation/assets/108383867/cee6e872-0dd4-4c26-8280-f8ef1edfa1c8)<hr>
 
