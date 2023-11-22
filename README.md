@@ -1,5 +1,5 @@
 # Form validation using Java Script:<br>
-## Sample Screenshot for ass2.html
+## Sample Screenshot for ass_2.html
 ![image](https://github.com/Dibya1771/Form-validation/assets/108383867/cee6e872-0dd4-4c26-8280-f8ef1edfa1c8)<hr>
 
 
